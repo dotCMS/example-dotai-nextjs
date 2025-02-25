@@ -41,6 +41,7 @@ const componentsMap = {
   calendarEvent: CalendarEvent,
   CallToAction: CallToAction,
   CustomNoComponent: CustomNoComponent,
+  DotaiHeadless: TravelBotComponent,
 };
 
 export function MyPage({ pageAsset, nav }) {
